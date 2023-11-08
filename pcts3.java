@@ -1,3 +1,10 @@
+/********************************************************************************
+ * Name				:practice qustion3
+ * Author			:Prapanch J
+ * Description		:Java Program 
+ * Version			:1.0
+* Date				:/10/23
+ * ******************************************************************************/
 package javalab;
 import java.util.Scanner;
 
